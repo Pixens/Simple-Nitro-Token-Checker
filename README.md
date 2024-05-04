@@ -7,5 +7,10 @@ How to use?
 - Type `pip install -r requirements.txt`
 - Type `python main.py`.
 
-Do NOT skid.
+# Disclaimer
+
+This is intended for educational purposes only. The creator assumes no responsibility for any illegal activities carried out with it, and the code is made public for viewing purposes only. Please use this ethically and responsibly.
+
+# Note
+
 Do NOT message me for help.
